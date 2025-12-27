@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lathesh MC</h1>
-<h3 align="center">Frontend Developer @ KEA | React.js Learner</h3>
+<h3 align="center">Frontend Developer | React.js Learner</h3>
 
 <p align="center">
   <a href="https://github.com/Lathesh-MC">
