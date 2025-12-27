@@ -48,26 +48,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lathesh-MC&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
 ## ✍️ Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Lathesh-MC&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
